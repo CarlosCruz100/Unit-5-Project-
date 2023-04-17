@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Cursive', sans-serif;
+    background-color: #0C4767;
+    text-align: center;
+  color: white;
+}
+
+img {
+  height: 250px;
+    width: 400px;
+}
+input{
+  background-color:#eea0ad ;
+}
